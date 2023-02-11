@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/todopiece/static/css/main.67dca99d.css",
+    "main.js": "/todopiece/static/js/main.2f6437ad.js",
+    "static/media/errorScreenImg.png": "/todopiece/static/media/errorScreenImg.50edd2a57ffcec454570.png",
+    "static/media/Background.jpg": "/todopiece/static/media/Background.0f57adf87e42e33a6841.jpg",
+    "static/media/z6btu437zgi91.webp": "/todopiece/static/media/z6btu437zgi91.f83d6b5c1003c40433c2.webp",
+    "static/media/loadingScreenImg.png": "/todopiece/static/media/loadingScreenImg.083ad8e606a0e0a54c34.png",
+    "index.html": "/todopiece/index.html",
+    "main.67dca99d.css.map": "/todopiece/static/css/main.67dca99d.css.map",
+    "main.2f6437ad.js.map": "/todopiece/static/js/main.2f6437ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67dca99d.css",
+    "static/js/main.2f6437ad.js"
+  ]
+}
